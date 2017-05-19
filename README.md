@@ -30,4 +30,3 @@ make clean
 5. If server mode
 - default port is set to 60002
 - wait for connection from client
-6. Enjoy chat!
